@@ -1,9 +1,23 @@
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo_TV_2015.png)
+![My Logo](https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo_TV_2015.png?style=centerme)
 
 password generator with argparse
 
+```
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
+import string
+import random
+import sys
+# first time using argparse library
+import argparse
+# wanted to change the formatting of the help
+# menu a little bit, so used RawTextHelpFormatter directly
+
+```
+
+from argparse import RawTextHelpFormatter
 
 The following code works with either Python 2 or 3. Uses the  "argparse" library (included with most versions of Python).
 
