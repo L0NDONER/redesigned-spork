@@ -1,5 +1,4 @@
-
-![My Logo](https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo_TV_2015.png?style=centerme)
+->![My Logo](https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo_TV_2015.png)<-
 
 password generator with argparse
 
