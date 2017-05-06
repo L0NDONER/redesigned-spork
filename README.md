@@ -1,8 +1,8 @@
 
-=========================================
+![alt text](https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo_TV_2015.png)
+
 password generator with argparse
 
-=========================================
 
 
 The following code works with either Python 2 or 3. Uses the  "argparse" library (included with most versions of Python).
